@@ -1,2 +1,3 @@
-# spt1
-spring boot task 1
+# Spring boot taks 1
+
+demo project to learning purposes
